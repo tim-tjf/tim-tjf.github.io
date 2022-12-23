@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+loc.la8-consulting.co.uk	TRUE	/	FALSE	1999999999	76bd9a6688c3462a012c32055c1da460	8245634b5d978e4834869950f13ddd12
+loc.la8-consulting.co.uk	TRUE	/	FALSE	1999999999	loc_purity_ii_tpl	loc_purity_ii
+

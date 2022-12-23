@@ -1,0 +1,73 @@
+UL.mermoomenu.vertical {
+	padding: 0px !important;
+	margin: 0px !important;
+}
+.mermoomenu.vertical ul {	
+    position: absolute;
+	padding: 0px !important;
+	margin: 0px !important;
+    display: block;
+    z-index: 1000;
+	left: 103%;
+	top: -1px;
+}
+.mermoomenu.vertical li {
+	position: relative;
+	list-style-type: none;
+	white-space: nowrap;
+	cursor: pointer;
+	display: block;
+}
+.mermoomenu.vertical ul ul {	
+    position: absolute;
+    top: 0px;
+    left: 101%;
+    z-index: 1000;
+}
+
+/* css for horizontal menu BEGIN */
+
+UL.mermoomenu.horizontal {
+	position: relative;
+	padding: 0px !important;
+	margin: 0px !important;
+}
+.mermoomenu.horizontal ul {	
+    position: absolute;
+	padding: 0px !important;
+	margin: 0px !important;
+	z-index: 1000;
+}
+.mermoomenu.horizontal ul ul {	
+    position: absolute;
+    top: 0px;
+    left: 100%;
+}
+.mermoomenu.horizontal li {
+	position: relative;
+	display: inline;
+	float: left;
+	white-space: nowrap;
+	cursor: pointer;
+	background-image: none !important;
+	padding: 0px !important;
+}
+.mermoomenu.horizontal li li {
+	float: none;
+	display: block;
+}
+
+/* css for horizontal menu END*/
+
+.mermoomenu .open {
+	display: block;
+}
+
+.mermoomenu .close {
+	display: none;
+}
+
+.mermoomenu a {
+	
+}
+
