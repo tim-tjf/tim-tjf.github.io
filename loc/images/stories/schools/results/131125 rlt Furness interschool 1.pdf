@@ -1,0 +1,317 @@
+%PDF-1.4
+%”ÙÃ·
+% PDFsharp Version 1.31.1789.0 (verbose mode)
+% Creation date: 25/11/2013 16:48:30             
+% Creation time: 0.609 seconds                   
+% File size: 8512 bytes                          
+% Pages: 3                                       
+% Objects: 14                                    
+%--------------------------------------------------------------------------------------------------
+1 0 obj   % PdfSharp.Pdf.PdfDocumentInformation
+<<
+  /CreationDate (D:20131125164830+00'00')
+  /Creator (PDFsharp 1.31.1789-g \(www.pdfsharp.com\))
+  /Producer (PDFsharp 1.31.1789-g \(www.pdfsharp.com\))
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+2 0 obj   % PdfSharp.Pdf.Advanced.PdfCatalog
+<<
+  /Pages 3 0 R
+  /Type /Catalog
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+3 0 obj   % PdfSharp.Pdf.PdfPages
+<<
+  /Count 3
+  /Kids [4 0 R 11 0 R 13 0 R]
+  /Type /Pages
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+4 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /Contents 5 0 R
+  /Group
+  <<
+    /CS /DeviceRGB
+    /I false
+    /K false
+    /S /Transparency
+  >>
+  /MediaBox [0 0 595 842]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /ExtGState
+    <<
+      /GS0 6 0 R
+    >>
+    /Font
+    <<
+      /F0 8 0 R
+      /F1 10 0 R
+    >>
+    /ProcSet [/PDF/Text/ImageB/ImageC/ImageI]
+  >>
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+5 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 427
+>>
+stream
+q
+1 0 0 -1 0 842 cm -100 Tz
+q
+BT
+/GS0 gs
+/F0 -12 Tf
+6 17.0625 Td (Furness Inter-Schools) Tj
+/F1 -8 Tf
+0 28.3125 Td (Pos.) Tj
+30 0 Td (Club) Tj
+114 0 Td (Score) Tj
+234 0 Td (A) Tj
+204 0 Td (B) Tj
+-582 13 Td (1) Tj
+30 0 Td (Dalton St Mary's) Tj
+121 0 Td (591) Tj
+207 0 Td (295 \(3\)) Tj
+204 0 Td (296 \(3\)) Tj
+-562 13 Td (2) Tj
+30 0 Td (George Romney) Tj
+121 0 Td (580) Tj
+207 0 Td (291 \(3\)) Tj
+204 0 Td (289 \(3\)) Tj
+ET
+Q
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+6 0 obj   % PdfSharp.Pdf.Advanced.PdfExtGState
+<<
+  /ca 1
+  /Type /ExtGState
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+7 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 922
+  /CapHeight 716
+  /Descent -210
+  /Flags 32
+  /FontBBox [-580 -250 1473 1003]
+  /FontName /MicrosoftSansSerif,Bold
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 518
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+8 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /MicrosoftSansSerif,Bold
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 7 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 265 277 354 556 556 889 666 190 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 277 277 583 583 583 556 1015 666 666 722 722 666 610 777 722 277 500 666 556 833 722 777 666 777 722 666 610 722 666 943 666 666 610 277 277 277 469 551 333 556 556 500 556 556 277 556 556 228 228 500 228 833 556 556 556 556 333 500 277 556 500 722 500 500 500 333 259 333 583 292 556 292 277 556 391 565 556 556 333 1000 666 333 1000 292 610 292 292 222 222 333 333 350 292 585 333 683 500 333 943 292 500 666 265 277 556 556 556 556 259 556 333 736 370 556 583 333 736 500 399 583 333 333 333 556 537 277 333 333 365 556 833 833 833 556 666 666 666 666 666 666 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 500 556 556 556 556 228 228 228 228 556 556 556 556 556 556 556 583 556 556 556 556 556 500 556 500]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+9 0 obj   % PdfSharp.Pdf.Advanced.PdfFontDescriptor
+<<
+  /Ascent 922
+  /CapHeight 716
+  /Descent -210
+  /Flags 32
+  /FontBBox [-580 -250 1473 1003]
+  /FontName /MicrosoftSansSerif
+  /ItalicAngle 0
+  /StemV 0
+  /Type /FontDescriptor
+  /XHeight 518
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+10 0 obj   % PdfSharp.Pdf.Advanced.PdfTrueTypeFont
+<<
+  /BaseFont /MicrosoftSansSerif
+  /Encoding /WinAnsiEncoding
+  /FirstChar 0
+  /FontDescriptor 9 0 R
+  /LastChar 255
+  /Subtype /TrueType
+  /Type /Font
+  /Widths [292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 292 265 277 354 556 556 889 666 190 333 333 389 583 277 333 277 277 556 556 556 556 556 556 556 556 556 556 277 277 583 583 583 556 1015 666 666 722 722 666 610 777 722 277 500 666 556 833 722 777 666 777 722 666 610 722 666 943 666 666 610 277 277 277 469 551 333 556 556 500 556 556 277 556 556 228 228 500 228 833 556 556 556 556 333 500 277 556 500 722 500 500 500 333 259 333 583 292 556 292 277 556 391 565 556 556 333 1000 666 333 1000 292 610 292 292 222 222 333 333 350 292 585 333 683 500 333 943 292 500 666 265 277 556 556 556 556 259 556 333 736 370 556 583 333 736 500 399 583 333 333 333 556 537 277 333 333 365 556 833 833 833 556 666 666 666 666 666 666 1000 722 666 666 666 666 277 277 277 277 722 722 777 777 777 777 777 583 777 722 722 722 722 666 666 610 556 556 556 556 556 556 889 500 556 556 556 556 228 228 228 228 556 556 556 556 556 556 556 583 556 556 556 556 556 500 556 500]
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+11 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /Contents 12 0 R
+  /Group
+  <<
+    /CS /DeviceRGB
+    /I false
+    /K false
+    /S /Transparency
+  >>
+  /MediaBox [0 0 595 842]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /ExtGState
+    <<
+      /GS0 6 0 R
+    >>
+    /Font
+    <<
+      /F0 8 0 R
+      /F1 10 0 R
+    >>
+    /ProcSet [/PDF/Text/ImageB/ImageC/ImageI]
+  >>
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+12 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 440
+>>
+stream
+q
+1 0 0 -1 0 842 cm -100 Tz
+q
+BT
+/GS0 gs
+/F0 -12 Tf
+6 17.0625 Td (Dalton St Mary's) Tj
+/F1 -8 Tf
+0 28.3125 Td (Nathan) Tj
+240 0 Td (B) Tj
+286 0 Td (100) Tj
+-526 13 Td (Nathan) Tj
+240 0 Td (A) Tj
+286 0 Td (100) Tj
+-526 13 Td (Lewis) Tj
+240 0 Td (B) Tj
+291 0 Td (99) Tj
+-531 13 Td (Cavan) Tj
+240 0 Td (A) Tj
+291 0 Td (98) Tj
+-531 13 Td (Erin) Tj
+240 0 Td (A) Tj
+291 0 Td (97) Tj
+-531 13 Td (Thomas) Tj
+240 0 Td (B) Tj
+291 0 Td (97) Tj
+ET
+Q
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+13 0 obj   % PdfSharp.Pdf.PdfPage
+<<
+  /Contents 14 0 R
+  /Group
+  <<
+    /CS /DeviceRGB
+    /I false
+    /K false
+    /S /Transparency
+  >>
+  /MediaBox [0 0 595 842]
+  /Parent 3 0 R
+  /Resources
+  <<
+    /ExtGState
+    <<
+      /GS0 6 0 R
+    >>
+    /Font
+    <<
+      /F0 8 0 R
+      /F1 10 0 R
+    >>
+    /ProcSet [/PDF/Text/ImageB/ImageC/ImageI]
+  >>
+  /Type /Page
+>>
+endobj
+%--------------------------------------------------------------------------------------------------
+14 0 obj   % PdfSharp.Pdf.Advanced.PdfContent
+<<
+  /Length 442
+>>
+stream
+q
+1 0 0 -1 0 842 cm -100 Tz
+q
+BT
+/GS0 gs
+/F0 -12 Tf
+6 17.0625 Td (George Romney) Tj
+/F1 -8 Tf
+0 28.3125 Td (Matthew) Tj
+240 0 Td (A) Tj
+286 0 Td (100) Tj
+-526 13 Td (Ella) Tj
+240 0 Td (B) Tj
+291 0 Td (98) Tj
+-531 13 Td (Robbie P) Tj
+240 0 Td (B) Tj
+291 0 Td (96) Tj
+-531 13 Td (Robbie P) Tj
+240 0 Td (A) Tj
+291 0 Td (96) Tj
+-531 13 Td (Ella) Tj
+240 0 Td (A) Tj
+291 0 Td (95) Tj
+-531 13 Td (Eleanor) Tj
+240 0 Td (B) Tj
+291 0 Td (95) Tj
+ET
+Q
+Q
+endstream
+endobj
+%--------------------------------------------------------------------------------------------------
+xref
+0 15
+0000000000 65535 f 
+0000000411 00000 n 
+0000000725 00000 n 
+0000000915 00000 n 
+0000001118 00000 n 
+0000001595 00000 n 
+0000002211 00000 n 
+0000002398 00000 n 
+0000002760 00000 n 
+0000004119 00000 n 
+0000004476 00000 n 
+0000005831 00000 n 
+0000006310 00000 n 
+0000006940 00000 n 
+0000007419 00000 n 
+trailer
+<<
+  /ID [<34D9BE218DB8964D99B15C5A175B87E7><34D9BE218DB8964D99B15C5A175B87E7>]
+  /Info 1 0 R
+  /Root 2 0 R
+  /Size 15
+>>
+startxref
+8051
+%%EOF
